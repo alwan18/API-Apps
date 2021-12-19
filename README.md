@@ -9,6 +9,7 @@ NIM   : 200602017
 
 
 Tugas API Json (Bahasa Pemrograman Terpopuler) nomor urut 2.
+https://ewinsutriandi.github.io/mockapi/bahasa_pemrograman.json
 
 Di project kali ini saya akan mengerkan tugas dari mata kuliah Pemrograman Mobile, dan dalam tugas kali ini saya menggunakan API JSON file.
 
